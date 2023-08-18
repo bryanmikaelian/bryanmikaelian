@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Bryan 😎
 
-<!--
-**bryanmikaelian/bryanmikaelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://hachyderm.io/@bryanmikaelian)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/bryanmikaelian)
 
-Here are some ideas to get you started:
+[![Email Me](https://img.shields.io/badge/Email-bryan.mikaelian@gmail.com-007735.svg)](mailto:bryan.mikaelian@gmail.com)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/bryanmikaelian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: He/him
+
+For my day job, I am a Staff Backend Engineer working at Netlify.
+
+I am usually hacking on something with Clojure or Clojurescript. I am a big fan of networking protocols and obscure RFCs.
+
+Oh and coffee. Lots of it. ☕
+
