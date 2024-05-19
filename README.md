@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/him
 
-For my day job, I am a Staff Backend Engineer working at Netlify.
+For my day job, I am a Senior Engineer working at 1Password. We are [hiring](https://1password.com/careers), so ping me if you are looking for a referral!
 
 I am usually hacking on something with Clojure or Clojurescript. I am a big fan of networking protocols and obscure RFCs.
 
