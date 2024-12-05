@@ -1,14 +1,5 @@
 ### Hi, I'm Bryan 😎
 
-[![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://hachyderm.io/@bryanmikaelian)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/bryanmikaelian)
-
-[![Email Me](https://img.shields.io/badge/Email-bryan.mikaelian@gmail.com-007735.svg)](mailto:bryan.mikaelian@gmail.com)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/bryanmikaelian)
-[![My Resume](https://img.shields.io/badge/My_Resume-https://resume.bryanmikaelian.com-blue?link=https%3A%2F%2Fresume.bryanmikaelian.com%2F
-)](https://resume.bryanmikaelian.com)
-
-😄 Pronouns: He/him
 
 For my day job, I am a Senior Engineer working at 1Password. We are [hiring](https://1password.com/careers), so ping me if you are looking for a referral!
 
@@ -18,3 +9,12 @@ My current open source focus is [Venn, a self-hosted billing platform](https://g
 
 Oh and coffee. Lots of it. ☕
 
+[![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://hachyderm.io/@bryanmikaelian)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/bryanmikaelian)
+
+[![Email Me](https://img.shields.io/badge/Email-bryan.mikaelian@gmail.com-007735.svg)](mailto:bryan.mikaelian@gmail.com)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/bryanmikaelian)
+[![My Resume](https://img.shields.io/badge/My_Resume-https://resume.bryanmikaelian.com-blue?link=https%3A%2F%2Fresume.bryanmikaelian.com%2F
+)](https://resume.bryanmikaelian.com)
+
+😄 Pronouns: He/him
