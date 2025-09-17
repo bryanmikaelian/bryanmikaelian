@@ -5,7 +5,9 @@ For my day job, I am a Senior Engineer working at 1Password. We are [hiring](htt
 
 I am usually hacking on something with Clojure or Clojurescript. I am a big fan of networking protocols and obscure RFCs.
 
-My current open source focus is [Venn, a self-hosted billing platform](https://github.com/vennbilling/venn)
+My current open source focus:
+- [Venn, a self-hosted billing platform](https://github.com/vennbilling/venn)
+- [Scrollwork, a AI cost analyzer](https://github.com/vennbilling/scrollwork)
 
 Oh and coffee. Lots of it. ☕
 
