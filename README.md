@@ -1,7 +1,7 @@
 ### Hi, I'm Bryan 😎
 
 
-For my day job, I am a Senior Engineer working at 1Password. We are [hiring](https://1password.com/careers), so ping me if you are looking for a referral!
+For my day job, I am a Senior Engineer working at Aptible.
 
 I am usually hacking on something with Clojure or Clojurescript. I am a big fan of networking protocols and obscure RFCs.
 
