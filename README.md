@@ -1,7 +1,7 @@
 ### Hi, I'm Bryan 😎
 
 
-For my day job, I am a Senior Engineer working at Aptible.
+For my day job, I am a Senior Engineer working at [Aptible](https://www.aptible.com/).
 
 I am usually hacking on something with Clojure or Clojurescript. I am a big fan of networking protocols and obscure RFCs.
 
