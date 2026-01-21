@@ -36,6 +36,31 @@ Key projects led include:
 - Revolutionized nightly billing job architecture, reducing runtime from eight hours to three minutes (96% improvement) and significantly reducing cloud compute costs
 - Architected the strategic blueprint for a comprehensive billing system rewrite, providing critical guidance on architecture decisions and potential pitfalls based on deep system knowledge
 
+### Segment — *San Francisco, CA (Remote)*
+**Software Engineer** • August 2017 — October 2020
+
+Full-stack, remote engineer who worked on Segment's products targeting enterprise and self-serve customers. Primarily used React, GraphQL, Node.JS and Go micro-services to rewrite the RBAC Auth model, drove the launch of the Segment Functions Product, and kickstarted a new version of JavaScript SDK.
+
+Key achievements:
+- Redesigned and implemented the RBAC authentication model, improving security posture and access control
+- Led the successful launch of the Segment Functions Product, enabling customers to transform data in-stream
+- Spearheaded development of new version of JavaScript SDK, adopted by thousands of customers and contributing to Segment's strong position for acquisition by Twilio
+
+### Librato — *San Francisco, CA (Remote)*
+**Senior Software Engineer** • August 2015 — August 2017
+
+Full-stack, remote engineer that worked on Librato's monitoring platform which handled over 3TB of data daily for hundreds of software teams. Built and scaled UIs and backend APIs along with various distributed systems written in Ruby on Rails, GraphQL, and Java 8.
+
+### BookShout — *Plano, TX*
+**Senior Software Engineer** • August 2012 — August 2015
+
+Full-stack engineer that helped create functionality for initial version of BookShout, an ebook reading application. Optimized and scaled main APIs backed by Ruby on Rails, Scala, and MySQL
+
+### The Active Network — *Las Colinas, TX*
+**QA Engineer** • August 2008 — August 2012
+
+One of two QA engineers that focused building out automated testing using Selenium for one of Active's web-based SaaS products
+
 ## EDUCATION
 
 ### University of Texas, Dallas
