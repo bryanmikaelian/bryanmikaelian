@@ -1,6 +1,6 @@
 # Bryan Mikaelian
 
-Backend Engineer
+Billing / Growth Engineer
 
 ## DESCRIPTION
 
