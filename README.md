@@ -4,19 +4,19 @@ Backend Engineer
 
 ## DESCRIPTION
 
-Backend engineer with over 18 years of experience specializing in billing systems, usage-based infrastructure, and high-scale API development. Expert in architecting payment processing systems, usage data pipelines, and control plane services that handle multiple terabytes of data daily. Proven track record transforming billing architectures and optimizing data pipelines, achieving up to 96% improvement in processing times. Seeking a role with a small, agile team where I can leverage my technical acumen to make immediate impact, with the autonomy to drive decisions and own complex systems end-to-end.
+Backend engineer with over 18 years of experience specializing in billing systems, usage-based infrastructure, and high-scale API development. Expert in architecting payment processing systems, usage data pipelines, and control plane services that handle multiple terabytes of data daily. Proven track record transforming billing architectures and optimizing data pipelines, achieving up to 96% improvement in processing times. Well-versed in growth-based development including experimentation frameworks, A/B testing, and data-driven optimization. Seeking a role with a small, agile team where I can leverage my technical acumen to make immediate impact, with the autonomy to drive decisions and own complex systems end-to-end.
 
 ## EXPERIENCE
 
 ### Aptible — *San Francisco, CA (Remote)*
 **Senior Software Engineer II** • Sept 2025 — Present
 
-Platform backend engineer focused on infrastructure and data systems. Launched point-in-time recovery for Postgres solution, enabling customers to restore databases to any specific moment. Spearheading data warehouse cleanup initiative to address inefficiencies in current ETL processes.
+Platform backend engineer focused on infrastructure and data systems. Launched point-in-time recovery for Postgres solution, enabling customers to restore databases to any specific moment. Spearheading data warehouse cleanup initiative to address inefficiencies in current ETL processes. Working on addressing data access issues and UI inconsistencies on the frontend through a design system.
 
 ### 1Password — *Toronto, ON (Remote)*
 **Sr Engineer, Billing Growth** • May 2024 — Sept 2025
 
-Spearheaded initiatives to enhance the customer billing experience and increase conversion rates to premium plans. Helped lead a major database migration project for billing systems, implementing dual-write patterns and blue-green testing methodologies to ensure zero-downtime transition while significantly improving data structure and facilitating extensive code cleanup. Led strategic effort to unify B2B and B2C offerings across the entire product, creating a more cohesive customer experience and streamlined internal architecture. Actively mentored two engineers (one mid-level, one junior) to accelerate their technical growth and expand team capacity.
+Spearheaded initiatives to enhance the customer billing experience and increase conversion rates to premium plans through growth experiments on both the frontend and backend. Helped lead a major database migration project for billing systems, implementing dual-write patterns and blue-green testing methodologies to ensure zero-downtime transition while significantly improving data structure and facilitating extensive code cleanup. Led strategic effort to unify B2B and B2C offerings across the entire product, creating a more cohesive customer experience and streamlined internal architecture. Actively mentored two engineers (one mid-level, one junior) to accelerate their technical growth and expand team capacity.
 
 Key projects led include:
 - Led redesign of the billing user journey to optimize conversion paths
@@ -24,6 +24,7 @@ Key projects led include:
 - Rewrote the payment form to improve user experience and conversion rates
 
 ### Netlify — *San Francisco, CA (Remote)*
+
 **Staff Backend Engineer, Billing** • June 2022 — May 2024
 
 Staff platform engineer charged with scaling the control plane and core APIs. Also the primary owner and lead engineer for all billing systems and usage data pipelines. Implemented observability best practices across the engineering organization through Datadog monitoring improvements and comprehensive runbooks. Mentored four senior engineers who were subsequently promoted to Staff Engineer roles, helping build the next generation of technical leadership. Collaborated directly with the Director and VP of Engineering as well as the CFO to develop and execute strategic billing initiatives aligned with company growth and financial objectives. Effectively managed stakeholders and expectations across multiple customer-facing teams, ensuring seamless billing experiences throughout the customer journey. Core technologies are Ruby and Golang services, Kafka, Clickhouse, and MongoDB.
@@ -35,6 +36,19 @@ Key projects led include:
 - Eliminated technical debt by removing legacy billing system for Netlify's Build Minutes feature
 - Revolutionized nightly billing job architecture, reducing runtime from eight hours to three minutes (96% improvement) and significantly reducing cloud compute costs
 - Architected the strategic blueprint for a comprehensive billing system rewrite, providing critical guidance on architecture decisions and potential pitfalls based on deep system knowledge
+
+**Senior Backend Engineer, Billing** • January 2022 — June 2022
+
+Responsible for exposing new platform, billing-centric APIs for the control plane and FE to consume. Also helped improved and scale billing infrastructure as customer growth accelerated especially in the enterprise space.
+
+**Senior Backend Engineer, Growth** • October 2020 — January 2022
+
+Founding member of the Growth Team that helped build a team capable of running sophisticated growth experiments in the product using data backends and APIs.
+
+Key projects include:
+- Built comprehensive framework for Segment data collection, standardizing user activity tracking across teams
+- Established data infrastructure foundation for growth experiments leveraging Segment, Snowflake DB, Mode Analytics, and MongoDB
+- Ensured reliable delivery of millions of daily events to analytics pipelines, maintaining data integrity for product decisions
 
 ### Segment — *San Francisco, CA (Remote)*
 **Software Engineer** • August 2017 — October 2020
