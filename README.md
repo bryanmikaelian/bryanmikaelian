@@ -82,6 +82,11 @@ One of two QA engineers that focused building out automated testing using Seleni
 
 ## PROJECTS
 
+### [Manpage.dev](https://github.com/manpage-dev/manpage.dev)
+**Creator & Lead Developer** • 2026 - Present
+
+Transform your README into a Unix manual page. Currently in active development.
+
 ### [Venn](https://github.com/vennbilling/venn)
 **Creator & Lead Developer** • 2023 — Present
 
@@ -90,7 +95,7 @@ Venn is an open source, modern, self-hosted billing platform written in Clojure.
 ### [Scrollwork](https://github.com/vennbilling/scrollwork)
 **Creator & Lead Developer** • 2025 — Present
 
-Scrollwork is a sidecar agent that allows teams to asses the cost risk of an AI prompt. Currently in active development.
+Scrollwork is a sidecar agent that allows teams to asses the cost risk of an AI prompt. Currently in paused development.
 
 ## SKILLS
 
