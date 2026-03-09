@@ -8,8 +8,11 @@ Backend engineer with over 18 years of experience specializing in billing system
 
 ## EXPERIENCE
 
+### Stealth Startup — *San Francisco, CA (Remote)*
+**Member of Technical Staff** • March 2026 - _present_
+
 ### Aptible — *San Francisco, CA (Remote)*
-**Senior Software Engineer II** • Sept 2025 — Present
+**Senior Software Engineer II** • Sept 2025 — March 2026
 
 Platform backend engineer focused on infrastructure and data systems. Launched point-in-time recovery for Postgres solution, enabling customers to restore databases to any specific moment. Spearheading data warehouse cleanup initiative to address inefficiencies in current ETL processes. Working on addressing data access issues and UI inconsistencies on the frontend through a design system.
 
