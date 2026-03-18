@@ -8,8 +8,9 @@ Backend engineer with over 18 years of experience specializing in billing system
 
 ## EXPERIENCE
 
-### Stealth Startup — *San Francisco, CA (Remote)*
+### exe.dev — *San Francisco, CA (Remote)*
 **Member of Technical Staff** • March 2026 - _present_
+Billing and billing and billing
 
 ### Aptible — *San Francisco, CA (Remote)*
 **Senior Software Engineer II** • Sept 2025 — March 2026
