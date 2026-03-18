@@ -102,8 +102,11 @@ Scrollwork is a sidecar agent that allows teams to asses the cost risk of an AI 
 
 ## SKILLS
 
+### AI
+Agentic Programming, Claude workflows, Agent Orchestration, Agent Long Running Task Management 
+
 ### Technical
-Ruby on Rails, Golang, Distributed Systems, Kafka, ClickHouse, MongoDB, Observability, Clojure/ClojureScript, Polylith, Functional Programming, GraphQL, REST, gRPC, AWS, Docker, Kubernetes, JavaScript, TypeScript, NodeJS, Relational Databases, NoSQL Databases, CI/CD pipelines, AI / LLM Tooling with Claude and ChatGPT
+Golang, Ruby on Rails, Distributed Systems, ClickHouse, Observability, Clojure/ClojureScript, Polylith, Functional Programming, GraphQL, REST, gRPC, AWS, Docker, Kubernetes, JavaScript, TypeScript, NodeJS, Relational Databases, NoSQL Databases, CI/CD pipelines, AI / LLM Tooling with Claude and ChatGPT
 
 ### Interpersonal
 Strategic Planning, Technical Leadership, Mentoring, Technical Acumen, Managing Stakeholders, Results-driven Delivery, System Ownership, Cross-team Collaboration, Autonomous Execution
